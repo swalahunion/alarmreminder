@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Style inputs */
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+  }
+  /* Style the container/contact section */
+  .container {
+    border-radius: 5px;
+    background-color:skyblue;
+    padding: 10px;
+  }
+a{
+	display:grid;
+	height:50px;
+	width:250px;
+	background:#6f3bff;
+	position:center;
+	margin:auto;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	place-items:center;
+	font-family:"poppins", sans-serif;
+	color:black;
+	font-size:20;
+	font-weight:500;
+	text-decoration:none;
+	letter-spacing:1px;
+	border-radius:5px;
+	}
